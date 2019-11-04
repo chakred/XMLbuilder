@@ -1,0 +1,3278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-11-05 01:21">
+  <shop>
+    <name>HAKI</name>
+    <company>HAKI</company>
+    <currencies>
+      <currency rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Фаркопи</category>
+    </categories>
+    <offers>
+      <offer>
+        <price>2760</price>
+        <categoryId>2</categoryId>
+        <picture>https://i.postimg.cc/k5Sj6Y0K/A31.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля AUDI Q3 з 2011 A31</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля AUDI Q3 з 2011 A31&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля AUDI Q3 з 2011 A31</param>
+        <param name="Марка">AUDI</param>
+        <param name="Модель">Q3</param>
+        <param name="Модификація">також на S-line</param>
+        <param name="Артикул">A31</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">17</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4950</price>
+        <categoryId>3</categoryId>
+        <picture>https://i.postimg.cc/NjSJ0vzQ/A32.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля AUDI Q 7 з 2015 A32</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля AUDI Q 7 з 2015 A32&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля AUDI Q 7 з 2015 A32</param>
+        <param name="Марка">AUDI</param>
+        <param name="Модель">Q 7</param>
+        <param name="Модификація">крім SQ7</param>
+        <param name="Артикул">A32</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">21,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4410</price>
+        <categoryId>4</categoryId>
+        <picture>https://i.postimg.cc/pX0cgFQh/A37.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля AUDI Q 5 з 2017 A37</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля AUDI Q 5 з 2017 A37&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля AUDI Q 5 з 2017 A37</param>
+        <param name="Марка">AUDI</param>
+        <param name="Модель">Q 5</param>
+        <param name="Модификація">також на S-line</param>
+        <param name="Артикул">A37</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2400</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">19,8</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>8880</price>
+        <categoryId>5</categoryId>
+        <picture>https://i.postimg.cc/QxNn4b7Z/A37v.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля AUDI Q 5 з 2017 A37V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля AUDI Q 5 з 2017 A37V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля AUDI Q 5 з 2017 A37V</param>
+        <param name="Марка">AUDI</param>
+        <param name="Модель">Q 5</param>
+        <param name="Модификація">також на S-line</param>
+        <param name="Артикул">A37V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2400</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">20</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4110</price>
+        <categoryId>6</categoryId>
+        <picture>https://i.postimg.cc/ZY24x8rK/B10.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля BMW X 5 кузов E 70 з 2007 B10</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля BMW X 5 кузов E 70 з 2007 B10&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля BMW X 5 кузов E 70 з 2007 B10</param>
+        <param name="Марка">BMW</param>
+        <param name="Модель">X 5</param>
+        <param name="Модификація">кузов E 70</param>
+        <param name="Артикул">B10</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">16,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4110</price>
+        <categoryId>7</categoryId>
+        <picture>https://i.postimg.cc/ZY24x8rK/B10.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля BMW X 5 кузов F15  з 2013 B10</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля BMW X 5 кузов F15  з 2013 B10&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля BMW X 5 кузов F15  з 2013 B10</param>
+        <param name="Марка">BMW</param>
+        <param name="Модель">X 5</param>
+        <param name="Модификація">кузов F15 </param>
+        <param name="Артикул">B10</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">16,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4410</price>
+        <categoryId>8</categoryId>
+        <picture>https://i.postimg.cc/R0SBZXzG/B14.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля BMW X 5 кузов E 53 2000-2007 B14</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля BMW X 5 кузов E 53 2000-2007 B14&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля BMW X 5 кузов E 53 2000-2007 B14</param>
+        <param name="Марка">BMW</param>
+        <param name="Модель">X 5</param>
+        <param name="Модификація">кузов E 53</param>
+        <param name="Артикул">B14</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">25</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>6300</price>
+        <categoryId>9</categoryId>
+        <picture>https://i.postimg.cc/rpfL0xVT/B14V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля BMW X 5 кузов E 53 2000-2007 B14V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля BMW X 5 кузов E 53 2000-2007 B14V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля BMW X 5 кузов E 53 2000-2007 B14V</param>
+        <param name="Марка">BMW</param>
+        <param name="Модель">X 5</param>
+        <param name="Модификація">кузов E 53</param>
+        <param name="Артикул">B14V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">26</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3540</price>
+        <categoryId>10</categoryId>
+        <picture>https://i.postimg.cc/xCqVK88z/B16.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля BMW X3 кузов F25 з 2010 B16</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля BMW X3 кузов F25 з 2010 B16&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля BMW X3 кузов F25 з 2010 B16</param>
+        <param name="Марка">BMW</param>
+        <param name="Модель">X3   </param>
+        <param name="Модификація">кузов F25, не підходить на  X3M</param>
+        <param name="Артикул">B16</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2400</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">13,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3540</price>
+        <categoryId>11</categoryId>
+        <picture>https://i.postimg.cc/xCqVK88z/B16.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля BMW X4 кузов F26 з  2014 B16</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля BMW X4 кузов F26 з  2014 B16&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля BMW X4 кузов F26 з  2014 B16</param>
+        <param name="Марка">BMW</param>
+        <param name="Модель">X4</param>
+        <param name="Модификація">кузов F26, не підходить на  X3M</param>
+        <param name="Артикул">B16</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2400</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">13,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>2370</price>
+        <categoryId>12</categoryId>
+        <picture>https://i.postimg.cc/9X7FSgXq/C51.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD GALAXY III  з 2006 C51</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD GALAXY III  з 2006 C51&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD GALAXY III  з 2006 C51</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">GALAXY III</param>
+        <param name="Модификація">5 двер., VAN</param>
+        <param name="Артикул">C51</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2350</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">16,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>2700</price>
+        <categoryId>13</categoryId>
+        <picture>https://i.postimg.cc/pdmw0BgL/c57.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD C-MAX, (GRAND C-MAX)  з 2010 C57</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD C-MAX, (GRAND C-MAX)  з 2010 C57&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD C-MAX, (GRAND C-MAX)  з 2010 C57</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">C-MAX, (GRAND C-MAX)</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">C57</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">16,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4410</price>
+        <categoryId>14</categoryId>
+        <picture>https://i.postimg.cc/52KcqrKr/C58.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD TRANSIT/TOURNEO CUSTOM  з 2013 C58</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD TRANSIT/TOURNEO CUSTOM  з 2013 C58&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD TRANSIT/TOURNEO CUSTOM  з 2013 C58</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">TRANSIT/TOURNEO CUSTOM</param>
+        <param name="Модификація">Бус</param>
+        <param name="Артикул">C58</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2800</param>
+        <param name="Вертикальне навантаження">115</param>
+        <param name="Вага">20,6</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7050</price>
+        <categoryId>15</categoryId>
+        <picture>https://i.postimg.cc/bwwcnPgb/C59.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD RANGER  з 2012 C59</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD RANGER  з 2012 C59&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD RANGER  з 2012 C59</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">RANGER</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">C59</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">225</param>
+        <param name="Вага">32,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7050</price>
+        <categoryId>16</categoryId>
+        <picture>https://i.postimg.cc/bwwcnPgb/C59.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MAZDA BT-50 Pick-up з 2012 C59</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MAZDA BT-50 Pick-up з 2012 C59&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MAZDA BT-50 Pick-up з 2012 C59</param>
+        <param name="Марка">MAZDA</param>
+        <param name="Модель">BT-50</param>
+        <param name="Модификація">Pick-up</param>
+        <param name="Артикул">C59</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">225</param>
+        <param name="Вага">32,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3780</price>
+        <categoryId>17</categoryId>
+        <picture>https://i.postimg.cc/RV9zMKng/C60.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD KUGA  з 2013 C60</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD KUGA  з 2013 C60&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD KUGA  з 2013 C60</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">KUGA</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">C60</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2100</param>
+        <param name="Вертикальне навантаження">105</param>
+        <param name="Вага">19,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4950</price>
+        <categoryId>18</categoryId>
+        <picture>https://i.postimg.cc/7PSk8mbC/C61.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD TRANSIT VAN з 2014 C61</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD TRANSIT VAN з 2014 C61&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD TRANSIT VAN з 2014 C61</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">TRANSIT VAN, MINIBUS крім TOURNEO</param>
+        <param name="Модификація">фургон</param>
+        <param name="Артикул">C61</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">26,5</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>2640</price>
+        <categoryId>19</categoryId>
+        <picture>https://i.postimg.cc/C5CTGL9C/C63.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD TRANSIT/TOURNEO COURIER коротка база з 2014 C63</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD TRANSIT/TOURNEO COURIER коротка база з 2014 C63&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD TRANSIT/TOURNEO COURIER коротка база з 2014 C63</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">TRANSIT/TOURNEO COURIER</param>
+        <param name="Модификація">коротка база</param>
+        <param name="Артикул">C63</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">910</param>
+        <param name="Вертикальне навантаження">50</param>
+        <param name="Вага">17,4</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5100</price>
+        <categoryId>20</categoryId>
+        <picture>https://i.postimg.cc/yxCC3SpY/C66.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FORD EDGE SUV, також на версію USA з 2015 C66</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FORD EDGE SUV, також на версію USA з 2015 C66&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FORD EDGE SUV, також на версію USA з 2015 C66</param>
+        <param name="Марка">FORD</param>
+        <param name="Модель">EDGE</param>
+        <param name="Модификація">SUV, також на версію USA</param>
+        <param name="Артикул">C66</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2350</param>
+        <param name="Вертикальне навантаження">120</param>
+        <param name="Вага">20,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3570</price>
+        <categoryId>21</categoryId>
+        <picture>https://i.postimg.cc/tCdRR1xq/CH48.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля CHRYSLER VOYAGER з 2009 CH48</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля CHRYSLER VOYAGER з 2009 CH48&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля CHRYSLER VOYAGER з 2009 CH48</param>
+        <param name="Марка">CHRYSLER</param>
+        <param name="Модель">VOYAGER</param>
+        <param name="Модификація">VAN</param>
+        <param name="Артикул">CH48</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1800</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">25,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4800</price>
+        <categoryId>22</categoryId>
+        <picture>https://i.postimg.cc/HxyCLt2h/D30A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES VIANO кузов WSA 639 з 2003 D30A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES VIANO кузов WSA 639 з 2003 D30A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES VIANO кузов WSA 639 з 2003 D30A</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">VIANO</param>
+        <param name="Модификація">кузов WSA 639</param>
+        <param name="Артикул">D30A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">18,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4800</price>
+        <categoryId>23</categoryId>
+        <picture>https://i.postimg.cc/HxyCLt2h/D30A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES VITO кузов WSA 639 з 2003 D30A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES VITO кузов WSA 639 з 2003 D30A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES VITO кузов WSA 639 з 2003 D30A</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">VITO</param>
+        <param name="Модификація">кузов WSA 639</param>
+        <param name="Артикул">D30A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">18,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4470</price>
+        <categoryId>24</categoryId>
+        <picture>https://i.postimg.cc/XYVjrVfw/D35.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES SPRINTER  з 2006 D35</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES SPRINTER  з 2006 D35&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES SPRINTER  з 2006 D35</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">SPRINTER</param>
+        <param name="Модификація">3,665/4,325m, бортовий 1 k., фургон 2 k. без підножки</param>
+        <param name="Артикул">D35</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">19,7</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4470</price>
+        <categoryId>25</categoryId>
+        <picture>https://i.postimg.cc/XYVjrVfw/D35.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER без підножки 2006-2016 D35</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER без підножки 2006-2016 D35&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER без підножки 2006-2016 D35</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">CRAFTER</param>
+        <param name="Модификація">3,25/3,665/4,325m фургон, без підножки</param>
+        <param name="Артикул">D35</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">19,7</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4530</price>
+        <categoryId>26</categoryId>
+        <picture>https://i.postimg.cc/k5G7yfhG/D40.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES SPRINTER 5 тон, бортовий, спарені колеса з 2006 D40</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES SPRINTER 5 тон, бортовий, спарені колеса з 2006 D40&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES SPRINTER 5 тон, бортовий, спарені колеса з 2006 D40</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">SPRINTER</param>
+        <param name="Модификація">5 тон, бортовий, спарені колеса</param>
+        <param name="Артикул">D40</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">18,8</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4530</price>
+        <categoryId>27</categoryId>
+        <picture>https://i.postimg.cc/k5G7yfhG/D40.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER 5 тон, бортовий, спарені колеса 2006-2016 D40</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER 5 тон, бортовий, спарені колеса 2006-2016 D40&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER 5 тон, бортовий, спарені колеса 2006-2016 D40</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">CRAFTER</param>
+        <param name="Модификація"> тон, бортовий, спарені колеса</param>
+        <param name="Артикул">D40</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">18,8</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>2640</price>
+        <categoryId>28</categoryId>
+        <picture>https://i.postimg.cc/pdyHwvnx/D46.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES GLA  c 2014 D46</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES GLA  c 2014 D46&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES GLA  c 2014 D46</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">GLA</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">D46</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1600</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">17,9</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3960</price>
+        <categoryId>29</categoryId>
+        <picture>https://i.postimg.cc/Hk6mvnnB/D47.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES VITO, VIANO кузов W447 з 2014 D47</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES VITO, VIANO кузов W447 з 2014 D47&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES VITO, VIANO кузов W447 з 2014 D47</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">VITO, VIANO</param>
+        <param name="Модификація">кузов W447</param>
+        <param name="Артикул">D47</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">21,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7350</price>
+        <categoryId>30</categoryId>
+        <picture>https://i.postimg.cc/5241mL4X/D49A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES GL кузов (X164) 2006-2012 D49A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES GL кузов (X164) 2006-2012 D49A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES GL кузов (X164) 2006-2012 D49A</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">GL</param>
+        <param name="Модификація">кузов (X164)</param>
+        <param name="Артикул">D49A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">135</param>
+        <param name="Вага">35,2</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7350</price>
+        <categoryId>31</categoryId>
+        <picture>https://i.postimg.cc/5241mL4X/D49A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES GL кузов (X166) з 2012 D49A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES GL кузов (X166) з 2012 D49A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES GL кузов (X166) з 2012 D49A</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">GL</param>
+        <param name="Модификація">кузов (X166)</param>
+        <param name="Артикул">D49A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">135</param>
+        <param name="Вага">35,2</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4800</price>
+        <categoryId>32</categoryId>
+        <picture>https://i.postimg.cc/fThMJ11j/D50.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES W 166 class ML (GLE), AMG з 2011 D50</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES W 166 class ML (GLE), AMG з 2011 D50&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES W 166 class ML (GLE), AMG з 2011 D50</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">W 166</param>
+        <param name="Модификація">class ML (GLE), AMG, не підходить на ML 6.3 AMG</param>
+        <param name="Артикул">D50</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">33,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7800</price>
+        <categoryId>33</categoryId>
+        <picture>https://i.postimg.cc/xjm0j9p1/D50A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES W 166  class ML (GLE) з 2011 D50A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES W 166  class ML (GLE) з 2011 D50A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES W 166  class ML (GLE) з 2011 D50A</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">W 166 </param>
+        <param name="Модификація">class ML (GLE), AMG, не підходить на ML 6.3 AMG</param>
+        <param name="Артикул">D50A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">34</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>10020</price>
+        <categoryId>34</categoryId>
+        <picture>https://i.postimg.cc/ydMshGxK/D50V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES W 166  class ML (GLE) з 2011 D50V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES W 166  class ML (GLE) з 2011 D50V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES W 166  class ML (GLE) з 2011 D50V</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">W 166 </param>
+        <param name="Модификація">class ML (GLE), AMG, не підходить на ML 6.3 AMG</param>
+        <param name="Артикул">D50V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">34</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>6450</price>
+        <categoryId>35</categoryId>
+        <picture>https://i.postimg.cc/vBgGVyQX/D53.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES GLE  COUPE кузов (C292) з 2015 D53</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES GLE  COUPE кузов (C292) з 2015 D53&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES GLE  COUPE кузов (C292) з 2015 D53</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">GLE  COUPE</param>
+        <param name="Модификація">кузов (C292), AMG, не підходить на ML 6.3 AMG</param>
+        <param name="Артикул">D53</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">33,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>10800</price>
+        <categoryId>36</categoryId>
+        <picture>https://i.postimg.cc/JhhrRJvf/D53V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES GLE  COUPE    кузов (C292) з 2015 D53V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES GLE  COUPE    кузов (C292) з 2015 D53V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля MERCEDES GLE  COUPE    кузов (C292) з 2015 D53V</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">GLE  COUPE   </param>
+        <param name="Модификація">кузов (C292), AMG, не підходить на ML 6.3 AMG</param>
+        <param name="Артикул">D53V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">32,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5250</price>
+        <categoryId>37</categoryId>
+        <picture>https://i.postimg.cc/Mp5ZktP0/D55.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MERCEDES X - KLASA PICK UP з 2017 D55</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MERCEDES X - KLASA PICK UP з 2017 D55&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MERCEDES X - KLASA PICK UP з 2017 D55</param>
+        <param name="Марка">MERCEDES</param>
+        <param name="Модель">X - KLASA</param>
+        <param name="Модификація">PICK UP</param>
+        <param name="Артикул">D55</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">24,1</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4170</price>
+        <categoryId>38</categoryId>
+        <picture>https://i.postimg.cc/CK2SrkWN/F38.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля CITROEN BERLINGO (колісна база 4680 мм) з 2008 F38</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля CITROEN BERLINGO (колісна база 4680 мм) з 2008 F38&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля CITROEN BERLINGO (колісна база 4680 мм) з 2008 F38</param>
+        <param name="Марка">CITROEN</param>
+        <param name="Модель">BERLINGO</param>
+        <param name="Модификація">(колісна база 4680 мм)</param>
+        <param name="Артикул">F38</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1600</param>
+        <param name="Вертикальне навантаження">70</param>
+        <param name="Вага">19,8</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4170</price>
+        <categoryId>39</categoryId>
+        <picture>https://i.postimg.cc/CK2SrkWN/F38.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля PEUGEOT PARTNER (колісна база 4680 мм) з 2008 F38</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля PEUGEOT PARTNER (колісна база 4680 мм) з 2008 F38&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля PEUGEOT PARTNER (колісна база 4680 мм) з 2008 F38</param>
+        <param name="Марка">PEUGEOT</param>
+        <param name="Модель">PARTNER</param>
+        <param name="Модификація">(колісна база 4680 мм)</param>
+        <param name="Артикул">F38</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1600</param>
+        <param name="Вертикальне навантаження">70</param>
+        <param name="Вага">19,8</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>2730</price>
+        <categoryId>40</categoryId>
+        <picture>https://i.postimg.cc/hj7gkhnq/G61.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля DACIA SANDERO STEPWAY  з 2009 G61</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля DACIA SANDERO STEPWAY  з 2009 G61&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля DACIA SANDERO STEPWAY  з 2009 G61</param>
+        <param name="Марка">DACIA</param>
+        <param name="Модель">SANDERO STEPWAY</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">G61</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1350</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">19,6</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3630</price>
+        <categoryId>41</categoryId>
+        <picture>https://i.postimg.cc/8cQDNDkf/G62.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля DACIA DUSTER  (2/4 WD) з 2010 G62</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля DACIA DUSTER  (2/4 WD) з 2010 G62&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля DACIA DUSTER  (2/4 WD) з 2010 G62</param>
+        <param name="Марка">DACIA</param>
+        <param name="Модель">DUSTER              </param>
+        <param name="Модификація">(2/4 WD)</param>
+        <param name="Артикул">G62</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">15,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>0</price>
+        <categoryId>42</categoryId>
+        <picture></picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля OPEL MOVANO  з 2010 G67</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля OPEL MOVANO  з 2010 G67&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля OPEL MOVANO  з 2010 G67</param>
+        <param name="Марка">OPEL</param>
+        <param name="Модель">MOVANO </param>
+        <param name="Модификація">Фургон,
+</param>
+        <param name="Артикул"></param>
+        <param name="Тип електро-проводки"></param>
+        <param name="Горизонтальне навантаження"></param>
+        <param name="Вертикальне навантаження"></param>
+        <param name="Вага"></param>
+        <param name="Зняття бампера"></param>
+        <param name="Підріз бамперу"></param>
+      </offer>
+      <offer>
+        <price>0</price>
+        <categoryId>43</categoryId>
+        <picture></picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>спарені колеса</name>
+        <description>&lt;![CDATA[&lt;p&gt;спарені колеса&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">спарені колеса</param>
+        <param name="Марка"> довгий"</param>
+        <param name="Модель">з 2010</param>
+        <param name="Модификація">G67</param>
+        <param name="Артикул">3000</param>
+        <param name="Тип електро-проводки">100</param>
+        <param name="Горизонтальне навантаження">19,4</param>
+        <param name="Вертикальне навантаження">ні</param>
+        <param name="Вага">ні</param>
+        <param name="Зняття бампера">156</param>
+        <param name="Підріз бамперу">фаркоп</param>
+      </offer>
+      <offer>
+        <price>0</price>
+        <categoryId>44</categoryId>
+        <picture></picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT MASTER з 2010 G67</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT MASTER з 2010 G67&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT MASTER з 2010 G67</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">MASTER</param>
+        <param name="Модификація">Фургон,
+</param>
+        <param name="Артикул"></param>
+        <param name="Тип електро-проводки"></param>
+        <param name="Горизонтальне навантаження"></param>
+        <param name="Вертикальне навантаження"></param>
+        <param name="Вага"></param>
+        <param name="Зняття бампера"></param>
+        <param name="Підріз бамперу"></param>
+      </offer>
+      <offer>
+        <price>0</price>
+        <categoryId>45</categoryId>
+        <picture></picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>спарені колеса</name>
+        <description>&lt;![CDATA[&lt;p&gt;спарені колеса&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">спарені колеса</param>
+        <param name="Марка"> довгий"</param>
+        <param name="Модель">з 2010</param>
+        <param name="Модификація">G67</param>
+        <param name="Артикул">3000</param>
+        <param name="Тип електро-проводки">100</param>
+        <param name="Горизонтальне навантаження">19,4</param>
+        <param name="Вертикальне навантаження">ні</param>
+        <param name="Вага">ні</param>
+        <param name="Зняття бампера">156</param>
+        <param name="Підріз бамперу">фаркоп</param>
+      </offer>
+      <offer>
+        <price>4140</price>
+        <categoryId>46</categoryId>
+        <picture>https://i.postimg.cc/fWmD535c/G68.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT FLUENCE з 2009 G68</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT FLUENCE з 2009 G68&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT FLUENCE з 2009 G68</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">FLUENCE</param>
+        <param name="Модификація">4 двер.</param>
+        <param name="Артикул">G68</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1300</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">18,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4650</price>
+        <categoryId>47</categoryId>
+        <picture>https://i.postimg.cc/SN0xcnY9/G70.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля OPEL MOVANO  грузовий з 2010 G70</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля OPEL MOVANO  грузовий з 2010 G70&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля OPEL MOVANO  грузовий з 2010 G70</param>
+        <param name="Марка">OPEL</param>
+        <param name="Модель">MOVANO </param>
+        <param name="Модификація">грузовий -  спарені колеса</param>
+        <param name="Артикул">G70</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">120</param>
+        <param name="Вага">24,4</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4650</price>
+        <categoryId>48</categoryId>
+        <picture>https://i.postimg.cc/SN0xcnY9/G70.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT MASTER  з 2010 G70</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT MASTER  з 2010 G70&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT MASTER  з 2010 G70</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">MASTER</param>
+        <param name="Модификація">грузовий -  спарені колеса</param>
+        <param name="Артикул">G70</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">120</param>
+        <param name="Вага">24,4</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>2610</price>
+        <categoryId>49</categoryId>
+        <picture>https://i.postimg.cc/44H3K6yZ/G75.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля DACIA SANDERO  з 2013 G75</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля DACIA SANDERO  з 2013 G75&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля DACIA SANDERO  з 2013 G75</param>
+        <param name="Марка">DACIA</param>
+        <param name="Модель">SANDERO</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">G75</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1100</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">16,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3660</price>
+        <categoryId>50</categoryId>
+        <picture>https://i.postimg.cc/ZnNY1S20/G77.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля DACIA SANDERO STEPWAY  з 2013 G77</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля DACIA SANDERO STEPWAY  з 2013 G77&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля DACIA SANDERO STEPWAY  з 2013 G77</param>
+        <param name="Марка">DACIA</param>
+        <param name="Модель">SANDERO STEPWAY</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">G77</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1100</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">16,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3240</price>
+        <categoryId>51</categoryId>
+        <picture>https://i.postimg.cc/76dYs6Bp/G78.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля DACIA LOGAN 4 двер. з 2013 G78</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля DACIA LOGAN 4 двер. з 2013 G78&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля DACIA LOGAN 4 двер. з 2013 G78</param>
+        <param name="Марка">DACIA</param>
+        <param name="Модель">LOGAN</param>
+        <param name="Модификація">4 двер.</param>
+        <param name="Артикул">G78</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1100</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">15</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>2850</price>
+        <categoryId>52</categoryId>
+        <picture>https://i.postimg.cc/Xv2v5x9N/G79.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT CAPTUR  з 2013 G79</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT CAPTUR  з 2013 G79&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT CAPTUR  з 2013 G79</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">CAPTUR</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">G79</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1200</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">17,1</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4080</price>
+        <categoryId>53</categoryId>
+        <picture>https://i.postimg.cc/g2WrbxYp/G81.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля DACIA LOGAN Kombi з 2013 G81</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля DACIA LOGAN Kombi з 2013 G81&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля DACIA LOGAN Kombi з 2013 G81</param>
+        <param name="Марка">DACIA</param>
+        <param name="Модель">LOGAN</param>
+        <param name="Модификація">Kombi</param>
+        <param name="Артикул">G81</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1300</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">18,3</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4830</price>
+        <categoryId>54</categoryId>
+        <picture>https://i.postimg.cc/ZYQT4Cxg/G84.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT KADJAR  з 2015 G84</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT KADJAR  з 2015 G84&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT KADJAR  з 2015 G84</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">KADJAR</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">G84</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">25</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5400</price>
+        <categoryId>55</categoryId>
+        <picture>https://i.postimg.cc/ncshDvLp/G85.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT ESPACE  з 2015 G85</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT ESPACE  з 2015 G85&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT ESPACE  з 2015 G85</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">ESPACE</param>
+        <param name="Модификація">5 doors, VAN</param>
+        <param name="Артикул">G85</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">24</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4320</price>
+        <categoryId>56</categoryId>
+        <picture>https://i.postimg.cc/66M8RWLL/G86.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT TALISMAN  з 2015 G86</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT TALISMAN  з 2015 G86&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT TALISMAN  з 2015 G86</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">TALISMAN</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">G86</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">22</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5160</price>
+        <categoryId>57</categoryId>
+        <picture>https://i.postimg.cc/qRXCW239/G90.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля OPEL MOVANO  з 2010 G90</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля OPEL MOVANO  з 2010 G90&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля OPEL MOVANO  з 2010 G90</param>
+        <param name="Марка">OPEL</param>
+        <param name="Модель">MOVANO </param>
+        <param name="Модификація">L2, L3, L4 Maxi, фургон, FWD and RWD</param>
+        <param name="Артикул">G90</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">23</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5160</price>
+        <categoryId>58</categoryId>
+        <picture>https://i.postimg.cc/qRXCW239/G90.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT MASTER з 2010 G90</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT MASTER з 2010 G90&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT MASTER з 2010 G90</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">MASTER</param>
+        <param name="Модификація">L2, L3, L4 Maxi, фургон, FWD and RWD</param>
+        <param name="Артикул">G90</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">23</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5790</price>
+        <categoryId>59</categoryId>
+        <picture>https://i.postimg.cc/xdNvpkg2/G94.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля NISSAN X-TRAIL  з 2017 G94</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля NISSAN X-TRAIL  з 2017 G94&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля NISSAN X-TRAIL  з 2017 G94</param>
+        <param name="Марка">NISSAN</param>
+        <param name="Модель">X-TRAIL</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">G94</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">25,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5790</price>
+        <categoryId>60</categoryId>
+        <picture>https://i.postimg.cc/xdNvpkg2/G94.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля RENAULT KOLEOS II  з 2017 G94</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля RENAULT KOLEOS II  з 2017 G94&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля RENAULT KOLEOS II  з 2017 G94</param>
+        <param name="Марка">RENAULT</param>
+        <param name="Модель">KOLEOS II</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">G94</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">25,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4260</price>
+        <categoryId>61</categoryId>
+        <picture>https://i.postimg.cc/9MTB04qp/G95.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля DACIA DUSTER III з 2017 G95</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля DACIA DUSTER III з 2017 G95&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля DACIA DUSTER III з 2017 G95</param>
+        <param name="Марка">DACIA</param>
+        <param name="Модель">DUSTER III</param>
+        <param name="Модификація">SUV, 2 WD, 4WD</param>
+        <param name="Артикул">G95</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">17</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3450</price>
+        <categoryId>62</categoryId>
+        <picture>https://i.postimg.cc/Fsvm69n2/H14.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA OCTAVIA II  2004-2013 H14</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA OCTAVIA II  2004-2013 H14&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA OCTAVIA II  2004-2013 H14</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">OCTAVIA II</param>
+        <param name="Модификація">5 двер., Kombi, 4x4</param>
+        <param name="Артикул">H14</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1800</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">14,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4530</price>
+        <categoryId>63</categoryId>
+        <picture>https://i.postimg.cc/fbfFLrny/H14A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA OCTAVIA II  2004-2013 H14A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA OCTAVIA II  2004-2013 H14A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA OCTAVIA II  2004-2013 H14A</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">OCTAVIA II</param>
+        <param name="Модификація">5 двер., Kombi, 4x4</param>
+        <param name="Артикул">H14A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1800</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">15,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3210</price>
+        <categoryId>64</categoryId>
+        <picture>https://i.postimg.cc/Kv5FSd64/H18.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA YETI з 2009 H18</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA YETI з 2009 H18&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA YETI з 2009 H18</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">YETI</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">H18</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">13,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3600</price>
+        <categoryId>65</categoryId>
+        <picture>https://i.postimg.cc/MG0kBGRW/H19.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA RAPID  з 2012 H19</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA RAPID  з 2012 H19&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA RAPID  з 2012 H19</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">RAPID</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">H19</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1300</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">14,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3300</price>
+        <categoryId>66</categoryId>
+        <picture>https://i.postimg.cc/Znw4d5G9/H22.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA YETI з 2014 H22</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA YETI з 2014 H22&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA YETI з 2014 H22</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">YETI</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">H22</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">14,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3000</price>
+        <categoryId>67</categoryId>
+        <picture>https://i.postimg.cc/cCB65WVZ/H24.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA FABIA з 2014 H24</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA FABIA з 2014 H24&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA FABIA з 2014 H24</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">FABIA</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">H24</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1200</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">14,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3450</price>
+        <categoryId>68</categoryId>
+        <picture>https://i.postimg.cc/jqPf703M/H25.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA FABIA III Kombi з 2015 H25</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA FABIA III Kombi з 2015 H25&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA FABIA III Kombi з 2015 H25</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">FABIA III</param>
+        <param name="Модификація">Kombi</param>
+        <param name="Артикул">H25</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1200</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">14,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3450</price>
+        <categoryId>69</categoryId>
+        <picture>https://i.postimg.cc/tg4d3SnY/H26.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA OCTAVIA III  Scout з 2013 H26</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA OCTAVIA III  Scout з 2013 H26&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA OCTAVIA III  Scout з 2013 H26</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">OCTAVIA III  Scout</param>
+        <param name="Модификація">Scout</param>
+        <param name="Артикул">H26</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1800</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">13,8</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>8700</price>
+        <categoryId>70</categoryId>
+        <picture>https://i.postimg.cc/vmYhP8k8/H28V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA KODIAQ  з 2017 H28V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA KODIAQ  з 2017 H28V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA KODIAQ  з 2017 H28V</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">KODIAQ</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">H28V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">18,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4260</price>
+        <categoryId>71</categoryId>
+        <picture>https://i.postimg.cc/s2jBSkWh/H29.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SKODA KAROQ  з 2017 H29</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SKODA KAROQ  з 2017 H29&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SKODA KAROQ  з 2017 H29</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">KAROQ</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">H29</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">16,9</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>9180</price>
+        <categoryId>72</categoryId>
+        <picture>https://i.postimg.cc/qqPh3gcJ/H29V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA KAROQ  з 2017 H29V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA KAROQ  з 2017 H29V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SKODA KAROQ  з 2017 H29V</param>
+        <param name="Марка">SKODA</param>
+        <param name="Модель">KAROQ </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">H29V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">19</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4440</price>
+        <categoryId>73</categoryId>
+        <picture>https://i.postimg.cc/T3YxRtx0/J54.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE з 2006 J54</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE з 2006 J54&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE з 2006 J54</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">SANTA  FE</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J54</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2700</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">19,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5400</price>
+        <categoryId>74</categoryId>
+        <picture>https://i.postimg.cc/MpPSX1KS/j54a.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI SANTA  FE  з 2006 J54A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI SANTA  FE  з 2006 J54A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI SANTA  FE  з 2006 J54A</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">SANTA  FE</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J54A</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2700</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">20,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>7950</price>
+        <categoryId>75</categoryId>
+        <picture>https://i.postimg.cc/mrPG9htF/J60V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI IX 35   з 2010 J60V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI IX 35   з 2010 J60V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI IX 35   з 2010 J60V</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">IX 35    </param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J60V</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">16,5</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>7950</price>
+        <categoryId>76</categoryId>
+        <picture>https://i.postimg.cc/mrPG9htF/J60V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE    2010-2016 J60V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE    2010-2016 J60V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE    2010-2016 J60V</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SPORTAGE   </param>
+        <param name="Модификація">5 двер., 4 WD</param>
+        <param name="Артикул">J60V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">16,5</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3960</price>
+        <categoryId>77</categoryId>
+        <picture>https://i.postimg.cc/437rdMS6/j68.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE (тільки Дизель)  2012-2018 J68</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE (тільки Дизель)  2012-2018 J68&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE (тільки Дизель)  2012-2018 J68</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">SANTA  FE (тільки Дизель)</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J68</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">20</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5040</price>
+        <categoryId>78</categoryId>
+        <picture>https://i.postimg.cc/QxYYRD8X/J71.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля HYUNDAI TUCSON  2015-2018 J71</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля HYUNDAI TUCSON  2015-2018 J71&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля HYUNDAI TUCSON  2015-2018 J71</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">TUCSON</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J71</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">21,3</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>6450</price>
+        <categoryId>79</categoryId>
+        <picture>https://i.postimg.cc/7ZccTkdB/J71A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2015-2018 J71A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2015-2018 J71A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2015-2018 J71A</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">TUCSON</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J71A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">22</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>8700</price>
+        <categoryId>80</categoryId>
+        <picture>https://i.postimg.cc/3R2PTcLt/J71V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2015-2018 J71V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2015-2018 J71V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2015-2018 J71V</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">TUCSON</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J71V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">22</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4950</price>
+        <categoryId>81</categoryId>
+        <picture>https://i.postimg.cc/Gmc3Skp0/J80.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля HYUNDAI TUCSON  з 2018 J80</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля HYUNDAI TUCSON  з 2018 J80&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля HYUNDAI TUCSON  з 2018 J80</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">TUCSON</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">J80</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">22,8</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5280</price>
+        <categoryId>82</categoryId>
+        <picture>https://i.postimg.cc/wvb91P5g/J81.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE  з 2018 J81</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE  з 2018 J81&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля HYUNDAI SANTA  FE  з 2018 J81</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">SANTA  FE</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">J81</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">23,4</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>9780</price>
+        <categoryId>83</categoryId>
+        <picture>https://i.postimg.cc/Y9XC1j7c/J81V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI SANTA  FE  з 2018 J81V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI SANTA  FE  з 2018 J81V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI SANTA  FE  з 2018 J81V</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">SANTA  FE </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">J81V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">25,4</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>2700</price>
+        <categoryId>84</categoryId>
+        <picture>https://i.postimg.cc/26nMdWm3/JP06.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля JEEP COMMANDER кузов (XH) 2006-2011 JP06</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля JEEP COMMANDER кузов (XH) 2006-2011 JP06&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля JEEP COMMANDER кузов (XH) 2006-2011 JP06</param>
+        <param name="Марка">JEEP</param>
+        <param name="Модель">COMMANDER</param>
+        <param name="Модификація">кузов (XH)</param>
+        <param name="Артикул">JP06</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">9,3</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4530</price>
+        <categoryId>85</categoryId>
+        <picture>https://i.postimg.cc/VvG0LDvC/JP11.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля JEEP CHEROKEE кузов KL з 2014 JP11</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля JEEP CHEROKEE кузов KL з 2014 JP11&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля JEEP CHEROKEE кузов KL з 2014 JP11</param>
+        <param name="Марка">JEEP</param>
+        <param name="Модель">CHEROKEE</param>
+        <param name="Модификація">кузов KL</param>
+        <param name="Артикул">JP11</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">21,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4140</price>
+        <categoryId>86</categoryId>
+        <picture>https://i.postimg.cc/HnHK6Lsz/K42.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">T 5, T 6</param>
+        <param name="Модификація">TRANSPORTER , MULTIVAN</param>
+        <param name="Артикул">K42</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2800</param>
+        <param name="Вертикальне навантаження">120</param>
+        <param name="Вага">13,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5280</price>
+        <categoryId>87</categoryId>
+        <picture>https://i.postimg.cc/j2X1mrDb/K42A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42A</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">T 5, T 6</param>
+        <param name="Модификація">TRANSPORTER , MULTIVAN</param>
+        <param name="Артикул">K42A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2800</param>
+        <param name="Вертикальне навантаження">120</param>
+        <param name="Вага">14,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>8100</price>
+        <categoryId>88</categoryId>
+        <picture>https://i.postimg.cc/y6PFbT1B/K42V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN T 5, T 6 TRANSPORTER , MULTIVAN з 2003 K42V</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">T 5, T 6</param>
+        <param name="Модификація">TRANSPORTER , MULTIVAN</param>
+        <param name="Артикул">K42V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2800</param>
+        <param name="Вертикальне навантаження">120</param>
+        <param name="Вага">14,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5550</price>
+        <categoryId>89</categoryId>
+        <picture>https://i.postimg.cc/3RQgPS0r/K45A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN CADDY  з 2004 K45A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN CADDY  з 2004 K45A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN CADDY  з 2004 K45A</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">CADDY</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K45A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1650</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">19,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7800</price>
+        <categoryId>90</categoryId>
+        <picture>https://i.postimg.cc/SsYvGvFy/K45V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN CADDY  з 2004 K45V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN CADDY  з 2004 K45V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN CADDY  з 2004 K45V</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">CADDY</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K45V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1650</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">19,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>6150</price>
+        <categoryId>91</categoryId>
+        <picture>https://i.postimg.cc/2S3tcMms/K46.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля PORSCHE CAYENNE 2003-2010 K46</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля PORSCHE CAYENNE 2003-2010 K46&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля PORSCHE CAYENNE 2003-2010 K46</param>
+        <param name="Марка">PORSCHE</param>
+        <param name="Модель">CAYENNE</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">K46</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">22,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>6150</price>
+        <categoryId>92</categoryId>
+        <picture>https://i.postimg.cc/2S3tcMms/K46.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TOUAREG 2003-2018 K46</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TOUAREG 2003-2018 K46&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TOUAREG 2003-2018 K46</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">TOUAREG</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">K46</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">22,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>7470</price>
+        <categoryId>93</categoryId>
+        <picture>https://i.postimg.cc/7hTmgGzb/K46A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля PORSCHE CAYENNE 2003-2010 K46A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля PORSCHE CAYENNE 2003-2010 K46A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля PORSCHE CAYENNE 2003-2010 K46A</param>
+        <param name="Марка">PORSCHE</param>
+        <param name="Модель">CAYENNE</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">K46A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">23,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>7470</price>
+        <categoryId>94</categoryId>
+        <picture>https://i.postimg.cc/7hTmgGzb/K46A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG  2003-2018 K46A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG  2003-2018 K46A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG  2003-2018 K46A</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">TOUAREG</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">K46A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">23,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3060</price>
+        <categoryId>95</categoryId>
+        <picture>https://i.postimg.cc/nzKS9tYD/K49.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN JETTA   2005-2010 K49</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN JETTA   2005-2010 K49&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN JETTA   2005-2010 K49</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">JETTA </param>
+        <param name="Модификація">4 двер.</param>
+        <param name="Артикул">K49</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1800</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">15,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3150</price>
+        <categoryId>96</categoryId>
+        <picture>https://i.postimg.cc/tJ2rDtcR/k55.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN AMAROK  з 2010 K55</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN AMAROK  з 2010 K55&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN AMAROK  з 2010 K55</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">AMAROK</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K55</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2800</param>
+        <param name="Вертикальне навантаження">120</param>
+        <param name="Вага">5,8</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7380</price>
+        <categoryId>97</categoryId>
+        <picture>https://i.postimg.cc/Y0pn1yby/K56V.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN JETTA   з 2011 K56V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN JETTA   з 2011 K56V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN JETTA   з 2011 K56V</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">JETTA </param>
+        <param name="Модификація">4двер., крім 4х4, крім Hybrid</param>
+        <param name="Артикул">K56V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1800</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">16,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4500</price>
+        <categoryId>98</categoryId>
+        <picture>https://i.postimg.cc/cCjPWGRt/K66.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TIGUAN  з 2016 K66</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TIGUAN  з 2016 K66&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TIGUAN  з 2016 K66</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">TIGUAN</param>
+        <param name="Модификація">5 двер., VAN</param>
+        <param name="Артикул">K66</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">17,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>6000</price>
+        <categoryId>99</categoryId>
+        <picture>https://i.postimg.cc/gJzCqDcj/K66A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TIGUAN з 2016 K66A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TIGUAN з 2016 K66A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TIGUAN з 2016 K66A</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">TIGUAN</param>
+        <param name="Модификація">5 двер., VAN</param>
+        <param name="Артикул">K66A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">18,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4410</price>
+        <categoryId>100</categoryId>
+        <picture>https://i.postimg.cc/zGWYJvPz/K70.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN ARTEON  з 2017 K70</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN ARTEON  з 2017 K70&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN ARTEON  з 2017 K70</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">ARTEON</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K70</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">16,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>8640</price>
+        <categoryId>101</categoryId>
+        <picture>https://i.postimg.cc/hPNqWTsZ/K70V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN ARTEON  з 2017 K70V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN ARTEON  з 2017 K70V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN ARTEON  з 2017 K70V</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">ARTEON</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K70V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">16,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>8040</price>
+        <categoryId>102</categoryId>
+        <picture>https://i.postimg.cc/7Y5yWm3T/K73.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER  II  з 2016 K73</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER  II  з 2016 K73&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN CRAFTER  II  з 2016 K73</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">CRAFTER  II   L3, L4</param>
+        <param name="Модификація">3,640/4,490m, FWD, 1к., з підножкою</param>
+        <param name="Артикул">K73</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">150</param>
+        <param name="Вага">32,2</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>6150</price>
+        <categoryId>103</categoryId>
+        <picture>https://i.postimg.cc/wxfp2Smp/K74.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">TOUAREG   </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K74</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">20,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>7950</price>
+        <categoryId>104</categoryId>
+        <picture>https://i.postimg.cc/J02ChkLn/K74A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74A</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">TOUAREG</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K74A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">21</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>11460</price>
+        <categoryId>105</categoryId>
+        <picture>https://i.postimg.cc/RhFz9T2y/K74V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLKSWAGEN TOUAREG     з 2018 K74V</param>
+        <param name="Марка">VOLKSWAGEN</param>
+        <param name="Модель">TOUAREG  </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">K74V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">21</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4350</price>
+        <categoryId>106</categoryId>
+        <picture>https://i.postimg.cc/sfc0Vs2F/L18.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLVO XC 90  2003-2015 L18</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLVO XC 90  2003-2015 L18&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLVO XC 90  2003-2015 L18</param>
+        <param name="Марка">VOLVO</param>
+        <param name="Модель">XC 90</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">L18</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2250</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">18,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5640</price>
+        <categoryId>107</categoryId>
+        <picture>https://i.postimg.cc/XJnb1WLV/L18A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLVO XC 90  2003-2015 L18A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLVO XC 90  2003-2015 L18A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля VOLVO XC 90  2003-2015 L18A</param>
+        <param name="Марка">VOLVO</param>
+        <param name="Модель">XC 90</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">L18A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2250</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">19,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3900</price>
+        <categoryId>108</categoryId>
+        <picture>https://i.postimg.cc/4N2L9PtB/L21.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLVO XC 60 з 2008 L21</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLVO XC 60 з 2008 L21&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLVO XC 60 з 2008 L21</param>
+        <param name="Марка">VOLVO</param>
+        <param name="Модель">XC 60</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">L21</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2100</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">15,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3300</price>
+        <categoryId>109</categoryId>
+        <picture>https://i.postimg.cc/jSW8Qf4K/l25.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLVO XC 70 Kombi 2000-2007 L25</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLVO XC 70 Kombi 2000-2007 L25&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLVO XC 70 Kombi 2000-2007 L25</param>
+        <param name="Марка">VOLVO</param>
+        <param name="Модель">XC 70</param>
+        <param name="Модификація">Kombi</param>
+        <param name="Артикул">L25</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">18,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4500</price>
+        <categoryId>110</categoryId>
+        <picture>https://i.postimg.cc/qMqkdkTq/L28.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля VOLVO XC 90 з 2015 L28</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля VOLVO XC 90 з 2015 L28&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля VOLVO XC 90 з 2015 L28</param>
+        <param name="Марка">VOLVO</param>
+        <param name="Модель">XC 90</param>
+        <param name="Модификація">SUV, також 4WD</param>
+        <param name="Артикул">L28</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2720</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">17,2</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3900</price>
+        <categoryId>111</categoryId>
+        <picture>https://i.postimg.cc/2SP0H50W/M58.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MAZDA CX-7  з 2007 M58</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MAZDA CX-7  з 2007 M58&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MAZDA CX-7  з 2007 M58</param>
+        <param name="Марка">MAZDA</param>
+        <param name="Модель">CX-7</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">M58</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1900</param>
+        <param name="Вертикальне навантаження">85</param>
+        <param name="Вага">19,8</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4200</price>
+        <categoryId>112</categoryId>
+        <picture>https://i.postimg.cc/44BJMYjj/M65.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MAZDA CX-9  2012-2015 M65</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MAZDA CX-9  2012-2015 M65&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MAZDA CX-9  2012-2015 M65</param>
+        <param name="Марка">MAZDA</param>
+        <param name="Модель">CX-9</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">M65</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1600</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">20,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4200</price>
+        <categoryId>113</categoryId>
+        <picture>https://i.postimg.cc/yxQsSGF7/M68.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MAZDA CX-3  з 2015 M68</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MAZDA CX-3  з 2015 M68&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MAZDA CX-3  з 2015 M68</param>
+        <param name="Марка">MAZDA</param>
+        <param name="Модель">CX-3</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">M68</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1800</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">16,3</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5400</price>
+        <categoryId>114</categoryId>
+        <picture>https://i.postimg.cc/nLDrfnqB/M69.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MAZDA CX-5 з 2017 M69</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MAZDA CX-5 з 2017 M69&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MAZDA CX-5 з 2017 M69</param>
+        <param name="Марка">MAZDA</param>
+        <param name="Модель">CX-5</param>
+        <param name="Модификація">SUV</param>
+        <param name="Артикул">M69</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2100</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">21</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4800</price>
+        <categoryId>115</categoryId>
+        <picture>https://i.postimg.cc/MGMMZ7Jc/O70A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля TOYOTA LAND CRUISER кузов (**J200*-G**E*W) з 2007 O70A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля TOYOTA LAND CRUISER кузов (**J200*-G**E*W) з 2007 O70A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля TOYOTA LAND CRUISER кузов (**J200*-G**E*W) з 2007 O70A</param>
+        <param name="Марка">TOYOTA</param>
+        <param name="Модель">LAND CRUISER  V 8</param>
+        <param name="Модификація">кузов (**J200*-G**E*W)</param>
+        <param name="Артикул">O70A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">12,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4050</price>
+        <categoryId>116</categoryId>
+        <picture>https://i.postimg.cc/3RZ9JFYj/o75.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  2005-2013 O75</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  2005-2013 O75&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  2005-2013 O75</param>
+        <param name="Марка">TOYOTA</param>
+        <param name="Модель">RAV-4</param>
+        <param name="Модификація">5 двер., с запасним колесом, крім long </param>
+        <param name="Артикул">O75</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">20,1</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>9300</price>
+        <categoryId>117</categoryId>
+        <picture>https://i.postimg.cc/rsFjdRwB/o80V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля LEXUS RX 350, RX 450H з 2009 O80V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля LEXUS RX 350, RX 450H з 2009 O80V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля LEXUS RX 350, RX 450H з 2009 O80V</param>
+        <param name="Марка">LEXUS</param>
+        <param name="Модель">RX 350, RX 450H   </param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">O80V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2100</param>
+        <param name="Вертикальне навантаження">85</param>
+        <param name="Вага">26</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5100</price>
+        <categoryId>118</categoryId>
+        <picture>https://i.postimg.cc/bvNgmFn7/O90.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля LEXUS RX 300, 350, 400h2002-2009 O90</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля LEXUS RX 300, 350, 400h2002-2009 O90&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля LEXUS RX 300, 350, 400h2002-2009 O90</param>
+        <param name="Марка">LEXUS</param>
+        <param name="Модель">RX 300, 350, 400h</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">O90</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">24</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>6000</price>
+        <categoryId>119</categoryId>
+        <picture>https://i.postimg.cc/tJLFyBY4/O91.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  2016-2018 O91</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  2016-2018 O91&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  2016-2018 O91</param>
+        <param name="Марка">TOYOTA</param>
+        <param name="Модель">RAV-4</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">O91</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">29</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4860</price>
+        <categoryId>120</categoryId>
+        <picture>https://i.postimg.cc/QNbLtvb7/O93.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля TOYOTA HILUX  Pick up, 4 WD з 2016 O93</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля TOYOTA HILUX  Pick up, 4 WD з 2016 O93&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля TOYOTA HILUX  Pick up, 4 WD з 2016 O93</param>
+        <param name="Марка">TOYOTA</param>
+        <param name="Модель">HILUX </param>
+        <param name="Модификація">Pick up, 4 WD</param>
+        <param name="Артикул">O93</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3200</param>
+        <param name="Вертикальне навантаження">130</param>
+        <param name="Вага">24</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4200</price>
+        <categoryId>121</categoryId>
+        <picture>https://i.postimg.cc/bw6Nts9Q/O94.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля TOYOTA C-HR  з 2016 O94</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля TOYOTA C-HR  з 2016 O94&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля TOYOTA C-HR  з 2016 O94</param>
+        <param name="Марка">TOYOTA</param>
+        <param name="Модель">C-HR </param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">O94</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">19</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5970</price>
+        <categoryId>122</categoryId>
+        <picture>https://i.postimg.cc/QNPt6B2S/O96.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  з 2018 O96</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  з 2018 O96&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля TOYOTA RAV-4  з 2018 O96</param>
+        <param name="Марка">TOYOTA</param>
+        <param name="Модель">RAV-4</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">O96</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">24</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>10440</price>
+        <categoryId>123</categoryId>
+        <picture>https://i.postimg.cc/wTytH5XS/O96V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля TOYOTA RAV-4  з 2018 O96V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля TOYOTA RAV-4  з 2018 O96V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля TOYOTA RAV-4  з 2018 O96V</param>
+        <param name="Марка">TOYOTA</param>
+        <param name="Модель">RAV-4</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">O96V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">24</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3150</price>
+        <categoryId>124</categoryId>
+        <picture>https://i.postimg.cc/Zn7c6Y9C/R40.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля PEUGEOT EXPERT  II з 2006 R40</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля PEUGEOT EXPERT  II з 2006 R40&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля PEUGEOT EXPERT  II з 2006 R40</param>
+        <param name="Марка">PEUGEOT</param>
+        <param name="Модель">EXPERT  II</param>
+        <param name="Модификація">фургон  </param>
+        <param name="Артикул">R40</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">20,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4710</price>
+        <categoryId>125</categoryId>
+        <picture>https://i.postimg.cc/RVhG4t8f/R42.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля CITROEN JUMPER з 2006 R42</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля CITROEN JUMPER з 2006 R42&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля CITROEN JUMPER з 2006 R42</param>
+        <param name="Марка">CITROEN</param>
+        <param name="Модель">JUMPER         L4</param>
+        <param name="Модификація">фургон</param>
+        <param name="Артикул">R42</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3100</param>
+        <param name="Вертикальне навантаження">124</param>
+        <param name="Вага">24,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4710</price>
+        <categoryId>126</categoryId>
+        <picture>https://i.postimg.cc/RVhG4t8f/R42.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля FIAT DUCATO з 2006 R42</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля FIAT DUCATO з 2006 R42&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля FIAT DUCATO з 2006 R42</param>
+        <param name="Марка">FIAT</param>
+        <param name="Модель">DUCATO          L4</param>
+        <param name="Модификація">фургон</param>
+        <param name="Артикул">R42</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3100</param>
+        <param name="Вертикальне навантаження">124</param>
+        <param name="Вага">24,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4710</price>
+        <categoryId>127</categoryId>
+        <picture>https://i.postimg.cc/RVhG4t8f/R42.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля PEUGEOT BOXER з 2006 R42</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля PEUGEOT BOXER з 2006 R42&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля PEUGEOT BOXER з 2006 R42</param>
+        <param name="Марка">PEUGEOT</param>
+        <param name="Модель">BOXER          L4</param>
+        <param name="Модификація">фургон</param>
+        <param name="Артикул">R42</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3100</param>
+        <param name="Вертикальне навантаження">124</param>
+        <param name="Вага">24,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3900</price>
+        <categoryId>128</categoryId>
+        <picture>https://i.postimg.cc/TYFDWN2d/R62.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля Fiat TIPO Kombi з 2017 R62</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля Fiat TIPO Kombi з 2017 R62&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля Fiat TIPO Kombi з 2017 R62</param>
+        <param name="Марка">Fiat</param>
+        <param name="Модель">TIPO</param>
+        <param name="Модификація">Kombi</param>
+        <param name="Артикул">R62</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1200</param>
+        <param name="Вертикальне навантаження">60</param>
+        <param name="Вага">17,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3510</price>
+        <categoryId>129</categoryId>
+        <picture>https://i.postimg.cc/RVYdFF5Y/SU45.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SUBARU FORESTER 2008-2013 SU45</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SUBARU FORESTER 2008-2013 SU45&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SUBARU FORESTER 2008-2013 SU45</param>
+        <param name="Марка">SUBARU</param>
+        <param name="Модель">FORESTER</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">SU45</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">17,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4800</price>
+        <categoryId>130</categoryId>
+        <picture>https://i.postimg.cc/SshLYTr2/Su45A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU FORESTER 2008-2013 SU45A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU FORESTER 2008-2013 SU45A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU FORESTER 2008-2013 SU45A</param>
+        <param name="Марка">SUBARU</param>
+        <param name="Модель">FORESTER</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">SU45A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">18,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4770</price>
+        <categoryId>131</categoryId>
+        <picture>https://i.postimg.cc/pdfJqJhN/SU46A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU OUTBACK Kombi 2009-2013 SU46A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU OUTBACK Kombi 2009-2013 SU46A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU OUTBACK Kombi 2009-2013 SU46A</param>
+        <param name="Марка">SUBARU</param>
+        <param name="Модель">OUTBACK</param>
+        <param name="Модификація">Kombi</param>
+        <param name="Артикул">SU46A</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">85</param>
+        <param name="Вага">17,9</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4950</price>
+        <categoryId>132</categoryId>
+        <picture>https://i.postimg.cc/0QRnd28N/Su48.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SUBARU FORESTER  з 2013 SU48</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SUBARU FORESTER  з 2013 SU48&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SUBARU FORESTER  з 2013 SU48</param>
+        <param name="Марка">SUBARU</param>
+        <param name="Модель">FORESTER</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">SU48</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2150</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">21,3</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>9300</price>
+        <categoryId>133</categoryId>
+        <picture>https://i.postimg.cc/ydcfw3f9/Su48V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU FORESTER     з 2013 SU48V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU FORESTER     з 2013 SU48V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU FORESTER     з 2013 SU48V</param>
+        <param name="Марка">SUBARU</param>
+        <param name="Модель">FORESTER   </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">SU48V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2150</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">22,3</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4470</price>
+        <categoryId>134</categoryId>
+        <picture>https://i.postimg.cc/Jzz2GnnV/Su49.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SUBARU OUTBACK  з 2015 SU49</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SUBARU OUTBACK  з 2015 SU49&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SUBARU OUTBACK  з 2015 SU49</param>
+        <param name="Марка">SUBARU</param>
+        <param name="Модель">OUTBACK</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">SU49</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">21</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5640</price>
+        <categoryId>135</categoryId>
+        <picture>https://i.postimg.cc/cJ625HyM/Su49A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU OUTBACK  з 2015 SU49A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU OUTBACK  з 2015 SU49A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUBARU OUTBACK  з 2015 SU49A</param>
+        <param name="Марка">SUBARU</param>
+        <param name="Модель">OUTBACK</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">SU49A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">21</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3000</price>
+        <categoryId>136</categoryId>
+        <picture>https://i.postimg.cc/gJ4qPcHN/T41.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля KIA SORENTO 2002- 2006 T41</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля KIA SORENTO 2002- 2006 T41&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля KIA SORENTO 2002- 2006 T41</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SORENTO</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">T41</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2800</param>
+        <param name="Вертикальне навантаження">112</param>
+        <param name="Вага">22,1</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5520</price>
+        <categoryId>137</categoryId>
+        <picture>https://i.postimg.cc/TP4MRbq4/T45A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2004-2015 T45A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2004-2015 T45A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля HYUNDAI TUCSON 2004-2015 T45A</param>
+        <param name="Марка">HYUNDAI</param>
+        <param name="Модель">TUCSON</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">T45A</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">26,1</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5520</price>
+        <categoryId>138</categoryId>
+        <picture>https://i.postimg.cc/TP4MRbq4/T45A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE    KM (JE) 2004-2010 T45A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE    KM (JE) 2004-2010 T45A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE    KM (JE) 2004-2010 T45A</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SPORTAGE   </param>
+        <param name="Модификація">KM (JE)</param>
+        <param name="Артикул">T45A</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">26,1</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3300</price>
+        <categoryId>139</categoryId>
+        <picture>https://i.postimg.cc/jqgQg55j/T51.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля KIA SORENTO 5 двер. 2006-2009 T51</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля KIA SORENTO 5 двер. 2006-2009 T51&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля KIA SORENTO 5 двер. 2006-2009 T51</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SORENTO</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">T51</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">24,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>2550</price>
+        <categoryId>140</categoryId>
+        <picture>https://i.postimg.cc/nLRZCgZT/T65.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля KIA CEED з 2012 T65</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля KIA CEED з 2012 T65&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля KIA CEED з 2012 T65</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">CEE'D</param>
+        <param name="Модификація">3/5 двер.</param>
+        <param name="Артикул">T65</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">80</param>
+        <param name="Вага">17,1</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>2430</price>
+        <categoryId>141</categoryId>
+        <picture>https://i.postimg.cc/26KJDfmR/T68.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля KIA RIO  з 2013 T68</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля KIA RIO  з 2013 T68&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля KIA RIO  з 2013 T68</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">R I O</param>
+        <param name="Модификація">4 двер. Европейска збірка</param>
+        <param name="Артикул">T68</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1200</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">15,7</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4950</price>
+        <categoryId>142</categoryId>
+        <picture>https://i.postimg.cc/QdG2Cs7j/T71.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля KIA SORENTO   з 2015 T71</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля KIA SORENTO   з 2015 T71&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля KIA SORENTO   з 2015 T71</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SORENTO </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">T71</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">25</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>6000</price>
+        <categoryId>143</categoryId>
+        <picture>https://i.postimg.cc/q7LVWYz4/T71A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SORENTO   з 2015 T71A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SORENTO   з 2015 T71A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SORENTO   з 2015 T71A</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SORENTO </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">T71A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2500</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">25</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>6150</price>
+        <categoryId>144</categoryId>
+        <picture>https://i.postimg.cc/XJj3JWTr/T72A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE     2016-2018 T72A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE     2016-2018 T72A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE     2016-2018 T72A</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SPORTAGE   </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">T72A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">23</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>9000</price>
+        <categoryId>145</categoryId>
+        <picture>https://i.postimg.cc/tJm9wcvY/T72V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE     2016-2018 T72V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE     2016-2018 T72V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE     2016-2018 T72V</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SPORTAGE   </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">T72V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">90</param>
+        <param name="Вага">24,4</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4410</price>
+        <categoryId>146</categoryId>
+        <picture>https://i.postimg.cc/4xH3kJgZ/T74.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля KIA NIRO з 2016 T74</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля KIA NIRO з 2016 T74&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля KIA NIRO з 2016 T74</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">NIRO</param>
+        <param name="Модификація">5 doors, Hybrid, тільки для TYPE: C5P11/D61AY1, C5P11/D61BY1</param>
+        <param name="Артикул">T74</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1300</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">18</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4590</price>
+        <categoryId>147</categoryId>
+        <picture>https://i.postimg.cc/GtbBd6jK/T77.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіляKIA STONIC  з 2017 T77</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіляKIA STONIC  з 2017 T77&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіляKIA STONIC  з 2017 T77</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">STONIC</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">T77</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1110</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">16,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4950</price>
+        <categoryId>148</categoryId>
+        <picture>https://i.postimg.cc/VkZX4sF8/T78.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля KIA SPORTAGE     з 2018 T78</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля KIA SPORTAGE     з 2018 T78&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля KIA SPORTAGE     з 2018 T78</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SPORTAGE   </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">T78</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">22,9</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>8700</price>
+        <categoryId>149</categoryId>
+        <picture>https://i.postimg.cc/L8x3732G/T78V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE з 2018 T78V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE з 2018 T78V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля KIA SPORTAGE з 2018 T78V</param>
+        <param name="Марка">KIA</param>
+        <param name="Модель">SPORTAGE   </param>
+        <param name="Модификація"></param>
+        <param name="Артикул">T78V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">25</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4800</price>
+        <categoryId>150</categoryId>
+        <picture>https://i.postimg.cc/Gh6PR5vw/V67.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля NISSAN X-TRAIL кузов (T31) з 2007 V67</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля NISSAN X-TRAIL кузов (T31) з 2007 V67&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля NISSAN X-TRAIL кузов (T31) з 2007 V67</param>
+        <param name="Марка">NISSAN</param>
+        <param name="Модель">X-TRAIL</param>
+        <param name="Модификація">кузов (T31)</param>
+        <param name="Артикул">V67</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">19,6</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>7200</price>
+        <categoryId>151</categoryId>
+        <picture>https://i.postimg.cc/FHpTvQgW/V76A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля NISSAN X-TRAIL  2014-2017 V76A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля NISSAN X-TRAIL  2014-2017 V76A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля NISSAN X-TRAIL  2014-2017 V76A</param>
+        <param name="Марка">NISSAN</param>
+        <param name="Модель">X-TRAIL</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">V76A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2200</param>
+        <param name="Вертикальне навантаження">110</param>
+        <param name="Вага">24,4</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4230</price>
+        <categoryId>152</categoryId>
+        <picture>https://i.postimg.cc/Kzw9Wrrm/V77.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля NISSAN NAVARA PICKUP NP300 з 2016 V77</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля NISSAN NAVARA PICKUP NP300 з 2016 V77&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля NISSAN NAVARA PICKUP NP300 з 2016 V77</param>
+        <param name="Марка">NISSAN</param>
+        <param name="Модель">NAVARA</param>
+        <param name="Модификація">PICKUP NP300</param>
+        <param name="Артикул">V77</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">3500</param>
+        <param name="Вертикальне навантаження">140</param>
+        <param name="Вага">22,2</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>3600</price>
+        <categoryId>153</categoryId>
+        <picture>https://i.postimg.cc/HxWX3D15/W16.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SUZUKI JIMNY з 1998 W16</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SUZUKI JIMNY з 1998 W16&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SUZUKI JIMNY з 1998 W16</param>
+        <param name="Марка">SUZUKI</param>
+        <param name="Модель">JIMNY</param>
+        <param name="Модификація">3/5 двер.</param>
+        <param name="Артикул">W16</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1300</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">15,2</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5550</price>
+        <categoryId>154</categoryId>
+        <picture>https://i.postimg.cc/J0vX1sDc/W23A.jpg</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI GRAND  VITARA з 2005 W23A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI GRAND  VITARA з 2005 W23A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI GRAND  VITARA з 2005 W23A</param>
+        <param name="Марка">SUZUKI</param>
+        <param name="Модель">GRAND  VITARA</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">W23A</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">85</param>
+        <param name="Вага">22,5</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4230</price>
+        <categoryId>155</categoryId>
+        <picture>https://i.postimg.cc/BtWxTm51/W30.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SUZUKI SX 4 S-CROSS  з 2013 W30</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SUZUKI SX 4 S-CROSS  з 2013 W30&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SUZUKI SX 4 S-CROSS  з 2013 W30</param>
+        <param name="Марка">SUZUKI</param>
+        <param name="Модель">SX 4 S-CROSS</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">W30</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">17,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>7500</price>
+        <categoryId>156</categoryId>
+        <picture>https://i.postimg.cc/SKmf11B6/W30V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI SX 4 S-CROSS  з 2013 W30V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI SX 4 S-CROSS  з 2013 W30V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI SX 4 S-CROSS  з 2013 W30V</param>
+        <param name="Марка">SUZUKI</param>
+        <param name="Модель">SX 4 S-CROSS</param>
+        <param name="Модификація"></param>
+        <param name="Артикул">W30V</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">18,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>4470</price>
+        <categoryId>157</categoryId>
+        <picture>https://i.postimg.cc/WbQ98np8/W31.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля SUZUKI VITARA з 2015 W31</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля SUZUKI VITARA з 2015 W31&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля SUZUKI VITARA з 2015 W31</param>
+        <param name="Марка">SUZUKI</param>
+        <param name="Модель">VITARA</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">W31</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">17,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>8250</price>
+        <categoryId>158</categoryId>
+        <picture>https://i.postimg.cc/mgHnWnpK/W31V.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI VITARA з 2015 W31V</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI VITARA з 2015 W31V&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля SUZUKI VITARA з 2015 W31V</param>
+        <param name="Марка">SUZUKI</param>
+        <param name="Модель">VITARA</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">W31V</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">1500</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">17,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>3600</price>
+        <categoryId>159</categoryId>
+        <picture>https://i.postimg.cc/WzYyscvc/Y39.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля HONDA CR-V  2012-2018 Y39</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля HONDA CR-V  2012-2018 Y39&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля HONDA CR-V  2012-2018 Y39</param>
+        <param name="Марка">HONDA</param>
+        <param name="Модель">CR-V</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">Y39</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">75</param>
+        <param name="Вага">16,5</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5250</price>
+        <categoryId>160</categoryId>
+        <picture>https://i.postimg.cc/kgxSmXnK/Z37.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MITSUBISHI PAJERO / MONTERO  Кузов (V 80/V 90) з 2007 Z37</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MITSUBISHI PAJERO / MONTERO  Кузов (V 80/V 90) з 2007 Z37&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MITSUBISHI PAJERO / MONTERO  Кузов (V 80/V 90) з 2007 Z37</param>
+        <param name="Марка">MITSUBISHI</param>
+        <param name="Модель">PAJERO / MONTERO</param>
+        <param name="Модификація">5 двер.  Кузов (V 80/V 90)</param>
+        <param name="Артикул">Z37</param>
+        <param name="Тип електро-проводки">звичайна електрика</param>
+        <param name="Горизонтальне навантаження">3300</param>
+        <param name="Вертикальне навантаження">135</param>
+        <param name="Вага">25,7</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">ні</param>
+      </offer>
+      <offer>
+        <price>5640</price>
+        <categoryId>161</categoryId>
+        <picture>https://i.postimg.cc/bw4jQb4f/Z38A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля CITROEN C-CROSSER з 2007 Z38A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля CITROEN C-CROSSER з 2007 Z38A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля CITROEN C-CROSSER з 2007 Z38A</param>
+        <param name="Марка">CITROEN</param>
+        <param name="Модель">C-CROSSER </param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">Z38A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">23,5</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5640</price>
+        <categoryId>162</categoryId>
+        <picture>https://i.postimg.cc/bw4jQb4f/Z38A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля MITSUBISHI OUTLANDER з 2007 Z38A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля MITSUBISHI OUTLANDER з 2007 Z38A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля MITSUBISHI OUTLANDER з 2007 Z38A</param>
+        <param name="Марка">MITSUBISHI</param>
+        <param name="Модель">OUTLANDER</param>
+        <param name="Модификація">5 двер.  </param>
+        <param name="Артикул">Z38A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">23,5</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>5640</price>
+        <categoryId>163</categoryId>
+        <picture>https://i.postimg.cc/bw4jQb4f/Z38A.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak швидко-з'ємний для автомобіля PEUGEOT 4007 з 2007 Z38A</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak швидко-з'ємний для автомобіля PEUGEOT 4007 з 2007 Z38A&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak швидко-з'ємний для автомобіля PEUGEOT 4007 з 2007 Z38A</param>
+        <param name="Марка">PEUGEOT</param>
+        <param name="Модель">4007</param>
+        <param name="Модификація">5 двер.</param>
+        <param name="Артикул">Z38A</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">23,5</param>
+        <param name="Зняття бампера">ні</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+      <offer>
+        <price>4230</price>
+        <categoryId>164</categoryId>
+        <picture>https://i.postimg.cc/T31RjTwg/Z42.png</picture>
+        <vendor>Auto-Hak</vendor>
+        <stock_quantity>1</stock_quantity>
+        <name>Фаркоп Auto-Hak для автомобіля MITSUBISHI OUTLANDER з 2012 Z42</name>
+        <description>&lt;![CDATA[&lt;p&gt;Фаркоп Auto-Hak для автомобіля MITSUBISHI OUTLANDER з 2012 Z42&lt;/p&gt;]]&gt;</description>
+        <param name="Вид">Фаркоп Auto-Hak для автомобіля MITSUBISHI OUTLANDER з 2012 Z42</param>
+        <param name="Марка">MITSUBISHI</param>
+        <param name="Модель">OUTLANDER</param>
+        <param name="Модификація">5 двер.  </param>
+        <param name="Артикул">Z42</param>
+        <param name="Тип електро-проводки">модуль узгодження</param>
+        <param name="Горизонтальне навантаження">2000</param>
+        <param name="Вертикальне навантаження">100</param>
+        <param name="Вага">21,7</param>
+        <param name="Зняття бампера">так</param>
+        <param name="Підріз бамперу">так</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
